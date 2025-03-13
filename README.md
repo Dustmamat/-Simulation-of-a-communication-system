@@ -67,4 +67,4 @@ This project is licensed under the MIT License.
 👤 **Dustmamat Bozorkulov**  
 🎓 B.Sc. in Electronic and Communications Engineering  
 🏢 Politecnico di Torino  
-📧 Email: your-email@example.com
+📧 Email: s307576@studenti.polito.it
