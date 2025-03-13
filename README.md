@@ -7,16 +7,6 @@ This project simulates a communication system that transmits and processes two a
 - Multiplexing strategies to share a channel with minimal interference.
 - Signal recovery using demodulation and filtering.
 
-## 📚 Project Structure
-```
-📁 Simulation-of-Communication-System
-│── 📄 README.md  # Project documentation
-│── 📁 src/        # Source code for simulation
-│── 📁 audio/      # Audio files used for analysis
-│── 📁 filters/    # Filtering algorithms and scripts
-│── 📁 results/    # Output and analysis results
-│── 📄 report.pdf  # Detailed technical report
-```
 
 ## 🎯 Key Features
 1. **Audio Signal Analysis**:
