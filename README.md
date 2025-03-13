@@ -57,7 +57,6 @@ The efficiency of filtering and demodulation is measured using the **Signal-to-I
 | Narrowband Rejection (2nd song)      | 23       | 5537.9                    |
 
 ## 📎 Resources
-- [Project Report](report.pdf) (detailed explanation and analysis)
 - [Audio & Channel Files](https://drive.google.com/drive/folders/1rXr1-bNQwBm6VB0d-Prug1Dr7H73kD1Z?usp=drive_link)
 
 ## 💜 License
