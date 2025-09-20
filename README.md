@@ -25,22 +25,6 @@ This project simulates a communication system that transmits and processes two a
    - Demodulation using a local carrier and filtering.
    - Performance comparison of different low-pass filters.
 
-## 🔧 Installation & Usage
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/your-username/Simulation-of-Communication-System.git
-cd Simulation-of-Communication-System
-```
-
-### **2. Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-### **3. Run the Simulation**
-```bash
-python src/simulation.py
-```
 
 ### **4. View Results**
 - Processed audio files are saved in the `results/` directory.
