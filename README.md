@@ -26,10 +26,6 @@ This project simulates a communication system that transmits and processes two a
    - Performance comparison of different low-pass filters.
 
 
-### **4. View Results**
-- Processed audio files are saved in the `results/` directory.
-- Graphical analysis is available in the `results/plots/` folder.
-
 ## 📊 Performance Metrics
 The efficiency of filtering and demodulation is measured using the **Signal-to-Interference Ratio (SIR)**. A higher SIR indicates better signal quality. 
 
